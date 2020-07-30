@@ -1,5 +1,5 @@
 # Code to generate dungeon numbers 
-
+Inspired by [this numberphile video](https://www.youtube.com/watch?v=HFeKdMf01rQ)  I thought I would throw something together to check out how these numbers behave.
 Uses Python 3.8. Requirements are specfied in requirements.txt
 
 Output:
