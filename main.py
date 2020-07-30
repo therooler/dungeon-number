@@ -50,7 +50,7 @@ def decimal_staircase(number: float, dungeon_depth: int)->List[float]:
 
 if __name__ == "__main__":
     """Plot the starting point a versus the final dungeon value phi"""
-    golden_ratio = decimal_staircase(1.1, 100)
+    golden_ratio = decimal_staircase(1.1, 100)[-1]
     print("The golden ratio from a dungeon starting at 1.1 is {}".format(golden_ratio))
 
     line = None
